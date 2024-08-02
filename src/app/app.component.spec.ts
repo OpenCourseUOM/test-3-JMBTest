@@ -33,3 +33,6 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('SmartGrocery app is running!');
   });
 });
+
+// Test 1
+// Test 2
